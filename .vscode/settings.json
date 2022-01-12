@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "functiondef.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "time.h": "c"
+    }
+}
